@@ -1,0 +1,4 @@
+'app/*.js',
+      'app/js/*.js',
+      'node_modules/angular/angular.js',
+      'node_modules/angular-mocks/angular-mocks.js'
